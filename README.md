@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/naphtron/YTDLD/logo.png)
+![Alt Text](https://github.com/naphtron/YTDLD/blob/main/logo.png)
 # YouTube Downloader App (YTDLD)
 
 Welcome to the YouTube Downloader app! This app allows you to download YouTube videos by simply entering a valid YouTube URL.
