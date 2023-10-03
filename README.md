@@ -1,7 +1,7 @@
 
-<div style="text-align:center;">
-    <img src="https://github.com/naphtron/YTDLD/blob/main/icon.png" alt="Alt Text" width="200">
-</div>
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/naphtron/YTDLD/blob/main/logo.png" > 
+</p>
 
 # YouTube Downloader App (YTDLD)
 
