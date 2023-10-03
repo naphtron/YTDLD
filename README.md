@@ -1,7 +1,8 @@
 
 <div style="text-align:center;">
-    <img src="https://github.com/naphtron/YTDLD/blob/main/logo.png" alt="Alt Text" width="200">
+    <img src="https://github.com/naphtron/YTDLD/blob/main/icon.png" alt="Alt Text" width="200">
 </div>
+
 # YouTube Downloader App (YTDLD)
 
 Welcome to the YouTube Downloader app! This app allows you to download YouTube videos by simply entering a valid YouTube URL.
