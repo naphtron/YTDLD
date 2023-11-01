@@ -41,9 +41,9 @@ If you want to build the app yourself or make modifications, follow these steps:
     python -m venv venv
     source venv/bin/activate # On Windows, use 'venv\Scripts\activate'
 
-5. **Dependencies**: Install the necessary dependencies for your app, including `kivy`, `kivymd`, and `pytube`:
+5. **Dependencies**: Install the necessary dependencies for your app, including `kivy`, `kivymd`,`logging` and `pytube`:
       ```python
-     pip install kivy kivymd pytube
+     pip install kivy kivymd pytube logging
       
 ### Building the APK
 
@@ -60,7 +60,7 @@ If you want to build the app yourself or make modifications, follow these steps:
 3. **Edit the `buildozer.spec` File:** Open the `buildozer.spec` file in a text editor. Locate **requirements** line in the file.
    Edit to,
     ```text
-    requirements = python3,kivy,kivymd,pillow,pytube
+    requirements = python3,kivy,kivymd,pillow,pytube,logging
     ```
     making sure the dependencies are installed when the app builds.
 
